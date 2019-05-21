@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://allall02.baidupcs.com/file/96f60af31cc523c982f5869d71fc98ca?fid=1314207882-250528-857858080836832&time=1558401639&sign=FDTAXyGERQHSKfW-DCb740ccc5511e5e8fedcff06b081203-RAjruej8IU5KXYfV7dgscHDnA8c%3D&to=80&size=4274596&sta_dx=4274596&sta_cs=2&sta_ft=ipa&sta_ct=2&sta_mt=0&fm2=MH%2CYangquan%2CAnywhere%2C%2CNone%2Cany&ctime=1558092285&mtime=1558401537&clienttype=25&resv0=cdnback&resv1=0&vuk=1314207882&iv=-1&htype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-78ad054f50df39e4ee3633e64c430fc3bce42e9f910ab6edc76018db5158487bb968804693e63f2b&expires=1558401999&rt=sh&r=876555208&sh=1&mlogid=9020627239677520024&vbdid=-&fin=%E7%88%B1%E7%BE%8E%E5%89%A7%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%88%E5%8E%BB%E5%B9%BF%E5%91%8A_%E5%8F%AF%E4%B8%8B%E8%BD%BD%EF%BC%89.ipa&rtype=1&dp-logid=9020627239677520024&dp-callid=0.1.1&hps=1&tsl=0&csl=0&csign=svjr1NUOfLXEwtoPC32Is1S2mDc%3D&so=0&ut=4&uter=4&serv=0&uc=695321876&ti=26fa64dbec28822453da736d444099027a01b2eeb8d6204e305a5e1275657320&by=themis.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.cydiashao.tk</string>
+				<key>bundle-version</key>
+				<string>1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>shao</string>
+				<key>title</key>
+				<string>爱美剧-shao</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
